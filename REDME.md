@@ -155,7 +155,7 @@ En el archivo `Fernet_+_Azar_encryptor.py`, configura las siguientes variables:
 
 Asegúrate de que `CORREO_REMITENTE` tenga activada la **verificación en dos pasos** y utiliza una **contraseña de aplicación**, no tu contraseña habitual.
 
-🚀 Deployment / Despliegue ( https://youtu.be/huXS9gZfoX8 )
+🚀 Deployment / Despliegue ( https://www.youtube.com/watch?v=huXS9gZfoX8&t=45s&ab_channel=DazzaLuis )
 
 English:
 
