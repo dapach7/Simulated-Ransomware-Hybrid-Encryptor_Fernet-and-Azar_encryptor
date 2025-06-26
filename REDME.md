@@ -155,6 +155,33 @@ En el archivo `Fernet_+_Azar_encryptor.py`, configura las siguientes variables:
 
 Asegúrate de que `CORREO_REMITENTE` tenga activada la **verificación en dos pasos** y utiliza una **contraseña de aplicación**, no tu contraseña habitual.
 
+🚀 Deployment / Despliegue
+English:
 
+To demonstrate the functionality of the encryption script, PyInstaller was used to convert it into a standalone .exe file. This allows the file to be executed on systems without Python installed.
+
+**Only the encryption script was compiled as an executable for demonstration purposes.**
+
+Other tools for turning Python scripts into executables include:
+
+- cx_Freeze
+
+- auto-py-to-exe (a GUI for PyInstaller)
+
+- Nuitka (compiles to C for performance)
+
+Español:
+
+Para demostrar el funcionamiento del script de cifrado, se utilizó PyInstaller para convertirlo en un archivo .exe independiente. Esto permite ejecutar el archivo en sistemas sin necesidad de tener Python instalado.
+
+**Solo se compiló el script de cifrado como ejecutable con fines demostrativos.**
+
+Otras herramientas para convertir scripts de Python en ejecutables son:
+
+- cx_Freeze
+
+- auto-py-to-exe (una interfaz gráfica para PyInstaller)
+
+- Nuitka (compila a C para mejorar el rendimiento)
 ---
 
